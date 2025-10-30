@@ -15,7 +15,7 @@ I'm also a huge fan of board games and video games design. So I love coming up w
 ---
 
 ### 📊 Root-Me Stats
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Just-858272&style=Astral)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Just-858272&style=astral)
 
 ---
 

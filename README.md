@@ -19,15 +19,5 @@ I'm also a huge fan of board games and video games design. So I love coming up w
 
 ---
 
-### ⚡ Hacking checklist
-- Coffee ☕    
-- Never stop learning  
-- Share with others
-- Break things
-- Repair them
-- Coffe again ☕
-
----
-
 💀 “La root est longue mais la voie est Libre” (Root-me)   
 

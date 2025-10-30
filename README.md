@@ -9,7 +9,7 @@ I'm also a huge fan of board games and video games design. So I love coming up w
 ### 💻 Skills & Interests
 - 🛡️ **Cybersecurity:** Low level security, Reverse Engineering, binary exploit, web security, ...  
 - 🕵️‍♂️ **CTFs & Challenges:** Root-Me, TryHackMe, personal projects and a lot of CTFs on CTFTime !  
-- 🛠️ **Tools:** Ghidra, IDA, Gdb, pwntools and many others !
+- 🛠️ **Tools:** Ghidra, IDA, Gdb, pwntools, ...
 - 🌐 **Programming languages:** Python, C, C++, Javascript, ...
 
 ---
@@ -29,5 +29,5 @@ I'm also a huge fan of board games and video games design. So I love coming up w
 
 ---
 
-💀 “La root est longue mais la voie est libre” (Root-me)   
+💀 “La root est longue mais la voie est Libre” (Root-me)   
 
